@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5c06f1ff-83cc-4521-911b-5f934271538d")
+	(paper "A4")
+	(title_block
+		(title "CH32V203 mouse")
+		(date "2024-10-28")
+		(rev "0.1")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
