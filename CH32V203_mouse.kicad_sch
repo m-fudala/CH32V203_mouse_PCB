@@ -5865,6 +5865,17 @@
 		)
 		(uuid "627fddc0-4c71-4d5b-ba5f-eef4a2b5dca3")
 	)
+	(label "VDD"
+		(at 146.05 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.5 0.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c103927-9b96-4e79-bcf2-cfd1d7a0bc4b")
+	)
 	(label "SWITCH"
 		(at 191.77 100.33 0)
 		(fields_autoplaced yes)
@@ -6179,7 +6190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 156.718 90)
 			(effects
 				(font
@@ -6249,7 +6260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 131.7752 63.5 0)
 			(effects
 				(font
@@ -6382,7 +6393,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.39 116.84 0)
 			(effects
 				(font
@@ -6517,7 +6528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 255.27 144.78 0)
 			(effects
 				(font
@@ -6660,7 +6671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 64.4652 125.73 0)
 			(effects
 				(font
@@ -6948,7 +6959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 127 156.21 0)
 			(effects
 				(font
@@ -7015,7 +7026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 59.182 85.09 90)
 			(effects
 				(font
@@ -7152,7 +7163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 33.9852 125.73 0)
 			(effects
 				(font
@@ -7355,7 +7366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 137.16 156.21 0)
 			(effects
 				(font
@@ -7419,7 +7430,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 212.09 54.61 0)
 			(effects
 				(font
@@ -7701,7 +7712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 266.192 57.15 90)
 			(effects
 				(font
@@ -7771,7 +7782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 213.0552 109.22 0)
 			(effects
 				(font
@@ -7841,7 +7852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 63.5 0)
 			(effects
 				(font
@@ -7911,7 +7922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 224.4852 63.5 0)
 			(effects
 				(font
@@ -7981,7 +7992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.802 85.09 90)
 			(effects
 				(font
@@ -8253,7 +8264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 213.36 147.32 0)
 			(effects
 				(font
@@ -8466,7 +8477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 238.252 96.52 90)
 			(effects
 				(font
@@ -8536,7 +8547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 121.6152 63.5 0)
 			(effects
 				(font
@@ -8606,7 +8617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 79.502 121.92 90)
 			(effects
 				(font
@@ -8676,7 +8687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 201.422 95.25 90)
 			(effects
 				(font
@@ -8813,7 +8824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 208.28 106.68 0)
 			(effects
 				(font
@@ -8949,7 +8960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 106.68 156.21 0)
 			(effects
 				(font
@@ -9079,7 +9090,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 259.08 52.07 0)
 			(effects
 				(font
@@ -9149,7 +9160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.2052 63.5 0)
 			(effects
 				(font
@@ -9217,7 +9228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G"
 			(at 46.99 63.5 0)
 			(effects
 				(font
@@ -9550,7 +9561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 116.84 156.21 0)
 			(effects
 				(font
@@ -9817,7 +9828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 240.9952 110.49 0)
 			(effects
 				(font
