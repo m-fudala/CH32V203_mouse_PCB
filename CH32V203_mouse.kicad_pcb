@@ -358,6 +358,17 @@
 			(roundrect_rratio 0.25)
 			(net 8 "/LED_ON-")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "559e8fe1-a52a-4205-884a-9a9b442deef7")
 		)
 		(pad "2" smd roundrect
@@ -367,6 +378,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "9558714d-a69e-4dee-b9f4-72b56f01b805")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -573,6 +595,17 @@
 			(roundrect_rratio 0.25)
 			(net 4 "/OSC_IN")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "d1bd92d1-79cd-4774-8345-0078f4458cd9")
 		)
 		(pad "2" smd roundrect
@@ -582,6 +615,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "3f2bc9c4-b8b5-4f85-9221-23ea78154f3f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -788,6 +832,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "7679d15b-1135-4e05-9e5c-f78c1ba90625")
 		)
 		(pad "2" smd roundrect
@@ -797,6 +852,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "b346f563-980c-4cda-9d5b-9977f2c351b2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -1003,6 +1069,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "2bc575bd-f9cb-43f4-ac39-28257f7cc93c")
 		)
 		(pad "2" smd roundrect
@@ -1012,6 +1089,17 @@
 			(roundrect_rratio 0.25)
 			(net 21 "/BOOT0")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "427ee40a-eda4-455c-add8-ec4b39a2281f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -1458,6 +1546,17 @@
 			(roundrect_rratio 0.25)
 			(net 13 "/CC1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "067add68-5451-4243-9494-6ac348cc98ba")
 		)
 		(pad "2" smd roundrect
@@ -1467,6 +1566,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "40e6c111-7625-407c-9bba-41b982fd6881")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -1673,6 +1783,17 @@
 			(roundrect_rratio 0.25)
 			(net 9 "/LED_STATUS-")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "89a1b73a-3be8-499d-ba41-e494bb89cbd1")
 		)
 		(pad "2" smd roundrect
@@ -1682,6 +1803,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "65e6d91a-dbab-4cee-ab04-cd915d9615c2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -1888,6 +2020,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a2ee694a-5abb-4a1e-9752-adca97ab0bbf")
 		)
 		(pad "2" smd roundrect
@@ -1897,6 +2040,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "896fcc3c-6ee2-43e5-be88-c2f198dde915")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -2124,6 +2278,17 @@
 			(net 9 "/LED_STATUS-")
 			(pinfunction "K")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "f2261e9f-e2fd-402d-bb7d-e94a87e74166")
 		)
 		(pad "2" smd roundrect
@@ -2134,6 +2299,17 @@
 			(net 10 "/LED")
 			(pinfunction "A")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5cbc192d-815c-49b4-837d-5c1a78bef714")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
@@ -2380,6 +2556,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "bb46f267-c0a2-46e0-8b8b-f5dd6ac30fbb")
 		)
 		(pad "2" smd roundrect
@@ -2390,6 +2577,17 @@
 			(net 3 "+3.3V")
 			(pinfunction "VO")
 			(pintype "power_out")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "eea0ff4b-111d-4a4f-97f5-c28f7da5cfa8")
 		)
 		(pad "3" smd roundrect
@@ -2400,6 +2598,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VI")
 			(pintype "power_in")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "3693dd54-f4cd-4382-8d04-1e2016bed922")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
@@ -2606,6 +2815,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "43a7a75b-ac3f-49db-9e05-11daeca650eb")
 		)
 		(pad "2" smd roundrect
@@ -2615,6 +2835,17 @@
 			(roundrect_rratio 0.25)
 			(net 7 "/NRST")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "cde70650-b89f-4570-a82a-3997811d5b98")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -3113,6 +3344,17 @@
 			(roundrect_rratio 0.25)
 			(net 6 "/SWITCH")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a56a3519-74aa-4b22-947b-55293b14e727")
 		)
 		(pad "2" smd roundrect
@@ -3122,6 +3364,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "106deadd-e368-4c22-b7f7-bc5300a75a02")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -3328,6 +3581,17 @@
 			(roundrect_rratio 0.25)
 			(net 5 "/OSC_OUT")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "42569c49-e42d-4b6e-b54b-fb7b49c1303a")
 		)
 		(pad "2" smd roundrect
@@ -3337,6 +3601,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "eb401dca-7633-40f8-bfec-ebdc6ad54d3f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -3543,6 +3818,17 @@
 			(roundrect_rratio 0.25)
 			(net 1 "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "0259a87f-a118-47f3-8b4f-1f2912939424")
 		)
 		(pad "2" smd roundrect
@@ -3552,6 +3838,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "4049641b-1b97-436b-bfd7-d8f065889047")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
@@ -3793,6 +4090,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1b8c20dc-38ad-44f8-98ef-5b6434287d28")
 		)
 		(pad "A4" smd rect
@@ -3802,6 +4110,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "87ec14ee-e599-4fd3-a25e-32a704da46fc")
 		)
 		(pad "A5" smd rect
@@ -3811,6 +4130,17 @@
 			(net 13 "/CC1")
 			(pinfunction "CC1")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "52f55a7a-2169-4580-a36a-1eccd2b7526e")
 		)
 		(pad "A6" smd rect
@@ -3820,6 +4150,17 @@
 			(net 14 "/USB_conn+")
 			(pinfunction "D+")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "56bfc31b-bb2a-4ff7-9ad5-cc935711f506")
 		)
 		(pad "A7" smd rect
@@ -3829,6 +4170,17 @@
 			(net 11 "/USB_conn-")
 			(pinfunction "D-")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1e58ccc0-0ac7-4043-b42f-2b59a4fb00f5")
 		)
 		(pad "A8" smd rect
@@ -3838,6 +4190,17 @@
 			(net 16 "unconnected-(J1-SBU1-PadA8)")
 			(pinfunction "SBU1")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "b62b9e76-0e9f-4682-a77a-0bf306923aa4")
 		)
 		(pad "A9" smd rect
@@ -3847,6 +4210,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "e73b8f5e-97f1-4e26-b6f9-7118f125d034")
 		)
 		(pad "A12" smd rect
@@ -3856,6 +4230,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5e66fe07-cd67-4502-bc34-9337e02437f6")
 		)
 		(pad "B1" smd rect
@@ -3865,6 +4250,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "65a2090c-8765-4c25-85a8-4b7cf90e2f84")
 		)
 		(pad "B4" smd rect
@@ -3874,6 +4270,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1e972a94-ab21-4878-abf9-c26656b272b5")
 		)
 		(pad "B5" smd rect
@@ -3883,6 +4290,17 @@
 			(net 12 "/CC2")
 			(pinfunction "CC2")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "15326850-9525-4927-bd68-4020f506bdfa")
 		)
 		(pad "B6" smd rect
@@ -3892,6 +4310,17 @@
 			(net 14 "/USB_conn+")
 			(pinfunction "D+")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "d94e9b11-1697-4632-90aa-1113b7d17101")
 		)
 		(pad "B7" smd rect
@@ -3901,6 +4330,17 @@
 			(net 11 "/USB_conn-")
 			(pinfunction "D-")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "03365edb-5f18-422d-99f1-9ec08e0386f4")
 		)
 		(pad "B8" smd rect
@@ -3910,6 +4350,17 @@
 			(net 15 "unconnected-(J1-SBU2-PadB8)")
 			(pinfunction "SBU2")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5ac0c145-5132-4ce0-866d-1fbdd6b105b7")
 		)
 		(pad "B9" smd rect
@@ -3919,6 +4370,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "0f27af46-06f1-4f55-9781-f09ad7e8d1da")
 		)
 		(pad "B12" smd rect
@@ -3928,6 +4390,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "86ecbba1-37d9-48fd-a99e-ea9694193cb7")
 		)
 		(pad "S1" thru_hole oval
@@ -4254,6 +4727,17 @@
 			(size 1.13 1.13)
 			(layers "F.Paste")
 			(roundrect_rratio 0.221239)
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "fdb1ea2e-4235-4605-8203-479513915331")
 		)
 		(pad "" smd roundrect
@@ -4261,6 +4745,17 @@
 			(size 1.13 1.13)
 			(layers "F.Paste")
 			(roundrect_rratio 0.221239)
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a1e45f36-ffd2-48f8-a9be-c5bebfc94f6c")
 		)
 		(pad "" smd roundrect
@@ -4268,6 +4763,17 @@
 			(size 1.13 1.13)
 			(layers "F.Paste")
 			(roundrect_rratio 0.221239)
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "327fc534-290b-4dec-a073-cab91d394baa")
 		)
 		(pad "" smd roundrect
@@ -4275,6 +4781,17 @@
 			(size 1.13 1.13)
 			(layers "F.Paste")
 			(roundrect_rratio 0.221239)
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "d7d73326-354f-4ce5-9624-417b7cc14a7c")
 		)
 		(pad "1" smd roundrect
@@ -4285,6 +4802,17 @@
 			(net 21 "/BOOT0")
 			(pinfunction "BOOT0/PB8")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "57100f56-c1c4-44b0-9b74-c7f0b7cba5cb")
 		)
 		(pad "2" smd roundrect
@@ -4295,6 +4823,17 @@
 			(net 4 "/OSC_IN")
 			(pinfunction "OSC_IN/PD0")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5c2a85b5-f251-4fcd-bc6c-443915749448")
 		)
 		(pad "3" smd roundrect
@@ -4305,6 +4844,17 @@
 			(net 5 "/OSC_OUT")
 			(pinfunction "OSC_OUT/PD1")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "aebd0469-dc46-44f1-a7a8-b6321ac36aae")
 		)
 		(pad "4" smd roundrect
@@ -4315,6 +4865,17 @@
 			(net 7 "/NRST")
 			(pinfunction "NRST")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "792e7754-fcc8-4df0-afae-a7126c05dee1")
 		)
 		(pad "5" smd roundrect
@@ -4325,6 +4886,17 @@
 			(net 3 "+3.3V")
 			(pinfunction "VDDA")
 			(pintype "power_in")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "73b212d8-cb7c-4416-a0bd-4cf1c5fb095b")
 		)
 		(pad "6" smd roundrect
@@ -4335,6 +4907,17 @@
 			(net 34 "unconnected-(U1-PA0{slash}WKUP{slash}ADC0-Pad6)")
 			(pinfunction "PA0/WKUP/ADC0")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a49141c8-85be-4d65-a0e3-be416bf4ea03")
 		)
 		(pad "7" smd roundrect
@@ -4345,6 +4928,17 @@
 			(net 25 "unconnected-(U1-PA1{slash}ADC1-Pad7)")
 			(pinfunction "PA1/ADC1")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1ca0b3af-79c4-4a85-96b9-c320386ac053")
 		)
 		(pad "8" smd roundrect
@@ -4355,6 +4949,17 @@
 			(net 20 "/UART_TX")
 			(pinfunction "PA2/ADC2")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "ce70a2f1-53f7-496a-8133-642dfd9ecf34")
 		)
 		(pad "9" smd roundrect
@@ -4365,6 +4970,17 @@
 			(net 19 "/UART_RX")
 			(pinfunction "PA3/ADC3")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "222d6e72-acbc-47fe-a0ab-4e8da4162e21")
 		)
 		(pad "10" smd roundrect
@@ -4375,6 +4991,17 @@
 			(net 26 "unconnected-(U1-PA4{slash}ADC4-Pad10)")
 			(pinfunction "PA4/ADC4")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "30563a0b-0e56-473f-9016-be9eeaac224d")
 		)
 		(pad "11" smd roundrect
@@ -4385,6 +5012,17 @@
 			(net 22 "unconnected-(U1-PA5{slash}ADC5-Pad11)")
 			(pinfunction "PA5/ADC5")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "00adb4d6-7068-4551-a3f5-f444a90fee20")
 		)
 		(pad "12" smd roundrect
@@ -4395,6 +5033,17 @@
 			(net 27 "unconnected-(U1-PA6{slash}ADC6-Pad12)")
 			(pinfunction "PA6/ADC6")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "31617270-4cc3-4c0d-ac55-e8b6124bfeb1")
 		)
 		(pad "13" smd roundrect
@@ -4405,6 +5054,17 @@
 			(net 35 "unconnected-(U1-PA7{slash}ADC7-Pad13)")
 			(pinfunction "PA7/ADC7")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "ce769532-faec-473a-90a1-1a6ec121ff88")
 		)
 		(pad "14" smd roundrect
@@ -4415,6 +5075,17 @@
 			(net 29 "unconnected-(U1-PB0{slash}ADC8-Pad14)")
 			(pinfunction "PB0/ADC8")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "40cd0d24-71c9-4fb9-a623-4be489263af2")
 		)
 		(pad "15" smd roundrect
@@ -4425,6 +5096,17 @@
 			(net 24 "unconnected-(U1-PB1{slash}ADC9-Pad15)")
 			(pinfunction "PB1/ADC9")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1a540319-d15b-424e-9981-ee34acf8ac02")
 		)
 		(pad "16" smd roundrect
@@ -4435,6 +5117,17 @@
 			(net 2 "GND")
 			(pinfunction "VSS")
 			(pintype "power_in")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "85d55b62-98f8-44d9-93ca-e4bbed19fc7e")
 		)
 		(pad "17" smd roundrect
@@ -4445,6 +5138,17 @@
 			(net 3 "+3.3V")
 			(pinfunction "VDD")
 			(pintype "power_in")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "f738ef39-43f5-4793-baed-78b70cc8b205")
 		)
 		(pad "18" smd roundrect
@@ -4455,6 +5159,17 @@
 			(net 28 "unconnected-(U1-PA9-Pad18)")
 			(pinfunction "PA9")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "34a5c29b-1fb4-4a4f-bf26-042fd8ce4a6a")
 		)
 		(pad "19" smd roundrect
@@ -4465,6 +5180,17 @@
 			(net 36 "/USB_DN")
 			(pinfunction "PA10/PA11/USB1DM")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "7a44fa0e-8d83-4c61-985f-11643cd42bd1")
 		)
 		(pad "20" smd roundrect
@@ -4475,6 +5201,17 @@
 			(net 31 "/USB_DP")
 			(pinfunction "PA12/USB1DP")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "6977b788-58a4-4a17-90f9-7851cb94fc62")
 		)
 		(pad "21" smd roundrect
@@ -4485,6 +5222,17 @@
 			(net 17 "/SWDIO")
 			(pinfunction "PA13/SWDIO")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1743d381-4cce-4eee-bb53-6c51a5477332")
 		)
 		(pad "22" smd roundrect
@@ -4495,6 +5243,17 @@
 			(net 18 "/SWCLK")
 			(pinfunction "PA14/SWCLK")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "ee171e83-87b4-467a-9010-7f2a13467a14")
 		)
 		(pad "23" smd roundrect
@@ -4505,6 +5264,17 @@
 			(net 10 "/LED")
 			(pinfunction "PA15")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "20f5ac69-bf71-4851-bf5f-dd738c07bb4a")
 		)
 		(pad "24" smd roundrect
@@ -4515,6 +5285,17 @@
 			(net 6 "/SWITCH")
 			(pinfunction "PB3")
 			(pintype "bidirectional")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "6bbe0552-f5cd-4b7c-8a27-c6cefc6b7af4")
 		)
 		(pad "25" smd roundrect
@@ -4525,6 +5306,17 @@
 			(net 32 "unconnected-(U1-PB4-Pad25)")
 			(pinfunction "PB4")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "964636c9-a150-43e8-8a65-436906a0693e")
 		)
 		(pad "26" smd roundrect
@@ -4535,6 +5327,17 @@
 			(net 30 "unconnected-(U1-PB5-Pad26)")
 			(pinfunction "PB5")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5c774553-5df4-4a06-9daa-5650ea679417")
 		)
 		(pad "27" smd roundrect
@@ -4545,6 +5348,17 @@
 			(net 33 "unconnected-(U1-PB6-Pad27)")
 			(pinfunction "PB6")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "9af6dd6a-f291-4a88-bb55-ac3221607e64")
 		)
 		(pad "28" smd roundrect
@@ -4555,6 +5369,17 @@
 			(net 23 "unconnected-(U1-PB7-Pad28)")
 			(pinfunction "PB7")
 			(pintype "bidirectional+no_connect")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "06dfed2e-5b2a-4d3a-8dec-e0afefd57ad8")
 		)
 		(pad "29" smd rect
@@ -4566,6 +5391,17 @@
 			(pinfunction "VSS")
 			(pintype "power_in")
 			(zone_connect 2)
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "b7180201-113b-4c61-8fa7-9bf43d5743a0")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm.step"
@@ -4772,6 +5608,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "1201ff3b-f73d-43a4-a725-81014e00e764")
 		)
 		(pad "2" smd roundrect
@@ -4781,6 +5628,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "417f2fb6-716f-4fda-b582-8f33bcd9ffd2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
@@ -4987,6 +5845,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "f7cb9f13-e3ee-43fc-94cf-308c4151bdd3")
 		)
 		(pad "2" smd roundrect
@@ -4996,6 +5865,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "47f2ad6d-61b9-4bfe-bdf3-f31c864cd3fa")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
@@ -5573,6 +6453,17 @@
 			(net 4 "/OSC_IN")
 			(pinfunction "1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "ccee7083-8d2a-4e94-83cd-4df842f8da4b")
 		)
 		(pad "2" smd rect
@@ -5582,6 +6473,17 @@
 			(net 2 "GND")
 			(pinfunction "2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "12c80750-2536-4974-a2d1-488c5f2e1fed")
 		)
 		(pad "3" smd rect
@@ -5591,6 +6493,17 @@
 			(net 5 "/OSC_OUT")
 			(pinfunction "3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "296e6719-f517-4dd9-812b-85e998aca071")
 		)
 		(pad "4" smd rect
@@ -5600,6 +6513,17 @@
 			(net 2 "GND")
 			(pinfunction "4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "43b0d7d4-3ec1-4db3-848f-1250f9b52635")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl"
@@ -6046,6 +6970,17 @@
 			(roundrect_rratio 0.25)
 			(net 7 "/NRST")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "4a2db70f-85d0-4f5e-88ea-cd64a76aea40")
 		)
 		(pad "2" smd roundrect
@@ -6055,6 +6990,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "20d9493e-fe11-4b89-b8a4-aac93429644f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
@@ -6301,6 +7247,17 @@
 			(net 11 "/USB_conn-")
 			(pinfunction "I/O1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "ca7029cc-d5a4-4bde-bb6c-d6616275c5d4")
 		)
 		(pad "2" smd roundrect
@@ -6311,6 +7268,17 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "b4a752e3-4ce4-4788-adce-b6e909d44b36")
 		)
 		(pad "3" smd roundrect
@@ -6321,6 +7289,17 @@
 			(net 14 "/USB_conn+")
 			(pinfunction "I/O2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "e0f15ca7-2bfb-4147-9446-4a0998af5d7b")
 		)
 		(pad "4" smd roundrect
@@ -6331,6 +7310,17 @@
 			(net 31 "/USB_DP")
 			(pinfunction "I/O2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "feb8b26e-1554-4e54-bb35-2f0bae615326")
 		)
 		(pad "5" smd roundrect
@@ -6341,6 +7331,17 @@
 			(net 1 "VBUS")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "3df2f4e5-98ef-4236-a4a6-4093a4319607")
 		)
 		(pad "6" smd roundrect
@@ -6351,6 +7352,17 @@
 			(net 36 "/USB_DN")
 			(pinfunction "I/O1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "339bd8f1-f601-4a36-823c-acf09b73a3f7")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl"
@@ -6859,6 +7871,17 @@
 			(roundrect_rratio 0.25)
 			(net 3 "+3.3V")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "faa65d5f-7e50-4625-adc0-1f6987a481fd")
 		)
 		(pad "2" smd roundrect
@@ -6868,6 +7891,17 @@
 			(roundrect_rratio 0.25)
 			(net 6 "/SWITCH")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a2141146-8e98-4ccc-9b40-423ad5952947")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -7074,6 +8108,17 @@
 			(roundrect_rratio 0.25)
 			(net 12 "/CC2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "5d7aa132-e140-42f5-967f-290ec4008685")
 		)
 		(pad "2" smd roundrect
@@ -7083,6 +8128,17 @@
 			(roundrect_rratio 0.25)
 			(net 2 "GND")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "c9415651-1a50-46f4-8253-23fb2d03b102")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
@@ -7310,6 +8366,17 @@
 			(net 8 "/LED_ON-")
 			(pinfunction "K")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "83430e05-d4ed-4206-80b3-5a65542579a6")
 		)
 		(pad "2" smd roundrect
@@ -7320,6 +8387,17 @@
 			(net 3 "+3.3V")
 			(pinfunction "A")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "4da3e042-46c6-496e-b4d5-1339cab35cc9")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
@@ -7664,6 +8742,19 @@
 				(thickness 0.16)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 122.4 98 90)
+		(layer "F.SilkS")
+		(uuid "047ee303-e8a7-40f4-abb4-0ef4aec1896e")
+		(effects
+			(font
+				(size 0.85 0.8)
+				(thickness 0.155)
+				(bold yes)
+			)
+			(justify bottom)
 		)
 	)
 	(gr_text "ON"
@@ -8039,6 +9130,33 @@
 		(uuid "f3b3ba15-0692-4be0-bb09-c3e525ade5fd")
 	)
 	(via
+		(at 146 91.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "0514c084-bb8a-4981-b664-7c8fad285174")
+	)
+	(via
+		(at 136.5 91.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "084f9a57-ba5c-4881-9270-0167cbcd427c")
+	)
+	(via
+		(at 146 106)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "0978f44d-7504-493b-b393-0b9c0d3b2a41")
+	)
+	(via
 		(at 126.4 94.38)
 		(size 0.7)
 		(drill 0.3)
@@ -8046,6 +9164,15 @@
 		(free yes)
 		(net 2)
 		(uuid "0ba923d3-a6fc-4b79-8e30-f83ad1b6b4dd")
+	)
+	(via
+		(at 130 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "0fa1fe6e-c99b-4467-897e-5279f1340a08")
 	)
 	(via
 		(at 136.8 96.88)
@@ -8057,6 +9184,105 @@
 		(uuid "0feed1ca-839c-4837-b9c2-b3441b85d58b")
 	)
 	(via
+		(at 133 105)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "1038ba9d-1f84-4122-aa53-b2cdbe0b9fae")
+	)
+	(via
+		(at 130.5 107)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "111f99c1-b219-4767-ba8d-fa15dc18ece7")
+	)
+	(via
+		(at 150 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "12129084-6785-4e3b-a619-fd471bfe63ee")
+	)
+	(via
+		(at 145 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "15e42e46-a120-4b7f-98fc-e79654c6e3f8")
+	)
+	(via
+		(at 120 97.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "16cfa8ea-09f5-45ee-bc74-a13a64a4e1ed")
+	)
+	(via
+		(at 147.5 90)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "18de82b3-9d13-4a7b-b2fa-7ba298bdb900")
+	)
+	(via
+		(at 150 95)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "190bfb50-a5da-4240-a5c1-5fe29990e98a")
+	)
+	(via
+		(at 127.5 105)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "1bb306b8-c4e3-49f4-86ef-218811b18825")
+	)
+	(via
+		(at 150 100)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "1dfb1ea4-9598-4ca5-952d-38b868ca4661")
+	)
+	(via
+		(at 149 91)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "23c5fab1-920d-43e0-882a-100ff3626cf0")
+	)
+	(via
+		(at 136 94)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "27bfabdd-c05c-43e7-9f3d-afe5c384c04e")
+	)
+	(via
 		(at 145.2 101.08)
 		(size 0.7)
 		(drill 0.3)
@@ -8064,6 +9290,33 @@
 		(free yes)
 		(net 2)
 		(uuid "27c8e06a-67ba-48a0-967b-d32e7026098e")
+	)
+	(via
+		(at 155 97.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "2cb4a1ef-5722-406c-8840-eefd7c1c6cf0")
+	)
+	(via
+		(at 145 87.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "2d0437ef-5eef-4b6d-86de-c1c85e94ad23")
+	)
+	(via
+		(at 127.5 90)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "2d74abde-2738-456a-a1a6-aa7eda19b328")
 	)
 	(via
 		(at 138.8 101.48)
@@ -8084,6 +9337,15 @@
 		(uuid "3331a33d-65e9-45fb-a5dc-3628a85ee876")
 	)
 	(via
+		(at 150 102)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "3755b140-b1b6-4495-a19b-d5dd066d8257")
+	)
+	(via
 		(at 131.3 97.48)
 		(size 0.7)
 		(drill 0.3)
@@ -8091,6 +9353,33 @@
 		(free yes)
 		(net 2)
 		(uuid "385fb0e0-d332-4cad-b216-e3afb704a7f6")
+	)
+	(via
+		(at 155 102.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "40831b98-cf24-437f-82ef-edf994f8fe92")
+	)
+	(via
+		(at 125 106)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "408e5fed-5bdf-44be-9d1e-2bcebe82bd3e")
+	)
+	(via
+		(at 143.5 106)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "41cddcb9-7de2-46c2-9521-e767a98f9df8")
 	)
 	(via
 		(at 153 103.98)
@@ -8120,6 +9409,15 @@
 		(uuid "472242f7-9520-4a00-8237-2b3f7d10e8fa")
 	)
 	(via
+		(at 133.5 98)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "4c0ecf89-b961-4436-8881-05e7daed0b7d")
+	)
+	(via
 		(at 136.8 95.68)
 		(size 0.7)
 		(drill 0.3)
@@ -8147,6 +9445,24 @@
 		(uuid "4d6d23de-7a30-443b-80f6-804879404a9d")
 	)
 	(via
+		(at 142 104)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "4f1ad96d-bd44-4ed9-b712-b9eb4027c9c0")
+	)
+	(via
+		(at 130 87.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "5ae6e3f5-9792-4f9a-805f-80479f7298d1")
+	)
+	(via
 		(at 131.6 98.78)
 		(size 0.7)
 		(drill 0.3)
@@ -8154,6 +9470,87 @@
 		(free yes)
 		(net 2)
 		(uuid "5b5fa174-24a9-4145-ab63-cf1d07255c7c")
+	)
+	(via
+		(at 120 100)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "66b6f60a-fce4-414b-9b25-5c1a83d2d13c")
+	)
+	(via
+		(at 125 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "68e6f240-5e70-4f58-b49e-fe63322a71b9")
+	)
+	(via
+		(at 155 105)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "6dc54376-d2e2-4f84-957b-d7ab239807ad")
+	)
+	(via
+		(at 127.5 110)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "6ff846ca-fa25-415a-b3ec-69ee55f32e11")
+	)
+	(via
+		(at 132 100)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "7291752a-adaf-4cb1-b831-0b3816fa8d92")
+	)
+	(via
+		(at 127.5 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "7850a717-f34b-40cd-a4b1-e89ee162e09e")
+	)
+	(via
+		(at 147.5 87.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "78942303-045b-4d11-8241-ea7ef92da691")
+	)
+	(via
+		(at 132.5 87.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "859f106f-8551-462c-a4c1-230f453e20bf")
+	)
+	(via
+		(at 145.5 94.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "8e7a7bbb-9872-4f11-bc39-53826e403d7a")
 	)
 	(via
 		(at 138.8 91.28)
@@ -8165,6 +9562,24 @@
 		(uuid "90671410-6d4b-4487-b87d-842050deb872")
 	)
 	(via
+		(at 155 95)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "90772d95-7d5e-464a-ac2c-793257998860")
+	)
+	(via
+		(at 150 97.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "9193c89e-db8a-46bb-8f90-733b41df4879")
+	)
+	(via
 		(at 140.6 101.48)
 		(size 0.7)
 		(drill 0.3)
@@ -8172,6 +9587,24 @@
 		(free yes)
 		(net 2)
 		(uuid "94879b8a-d977-4d39-b72d-6b21927da2b1")
+	)
+	(via
+		(at 147.5 110)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "9c11d4bc-8066-455f-8556-cf0b7876fda1")
+	)
+	(via
+		(at 120 95)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "9d2f9526-0291-492a-be52-835afabc573f")
 	)
 	(via
 		(at 138.8 99.78)
@@ -8183,6 +9616,15 @@
 		(uuid "9e2dd139-eb49-4130-9963-d35e09f5a401")
 	)
 	(via
+		(at 120 105)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a0a7edda-3b1c-4508-81ce-8fc9d6c012b8")
+	)
+	(via
 		(at 134.6 103.18)
 		(size 0.7)
 		(drill 0.3)
@@ -8190,6 +9632,42 @@
 		(free yes)
 		(net 2)
 		(uuid "a0eda24a-166a-4f2a-a42b-1ec1240748d4")
+	)
+	(via
+		(at 120 91.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a1d09132-bd61-40d6-9d9e-02eec304b3d0")
+	)
+	(via
+		(at 155 100)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a4a4478b-3d62-4564-9bdc-bb8d4fd04bed")
+	)
+	(via
+		(at 143 96)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a9a71247-c21c-452c-be20-688372297699")
+	)
+	(via
+		(at 155 92.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a9e1d2d6-3b98-4254-8042-2b0f3aeee37b")
 	)
 	(via
 		(at 140.6 99.78)
@@ -8201,6 +9679,51 @@
 		(uuid "aaa69dd3-84e4-45d0-ae0e-af3bc9be9d69")
 	)
 	(via
+		(at 135.5 106.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "adfa5f5a-2f4c-41a5-b309-8185c3294652")
+	)
+	(via
+		(at 130 110)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "b0c2e148-1056-4e57-831d-f10d53791f01")
+	)
+	(via
+		(at 132.5 101.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "b771cb9f-05a1-42e6-b96b-ec5fa9b0f3c1")
+	)
+	(via
+		(at 127.5 107.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "b8c09a31-748f-44a6-a19d-eac4d9c60313")
+	)
+	(via
+		(at 147.5 107)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "be454ab3-7795-4c75-bec2-c49cedcd5bf4")
+	)
+	(via
 		(at 140.1 96.38)
 		(size 0.7)
 		(drill 0.3)
@@ -8208,6 +9731,15 @@
 		(free yes)
 		(net 2)
 		(uuid "c26f414a-523c-4a36-99d6-3458d80b8c2c")
+	)
+	(via
+		(at 145 90)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "c3e5f214-6e4a-4a28-8e82-17963cd69bc7")
 	)
 	(via
 		(at 129.8 104.58)
@@ -8228,6 +9760,24 @@
 		(uuid "cb2aea16-d6f1-41d1-862b-636c7dd963c4")
 	)
 	(via
+		(at 127.5 87.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "d0fd08ba-63d2-4235-aa2f-d445fe43e252")
+	)
+	(via
+		(at 132.5 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "d49d49de-b98b-4ba0-bedf-cd1762bd6f93")
+	)
+	(via
 		(at 127.3 92.38)
 		(size 0.7)
 		(drill 0.3)
@@ -8235,6 +9785,24 @@
 		(free yes)
 		(net 2)
 		(uuid "d57c3d87-20ad-4a44-90d9-1ef9ebd5ca4f")
+	)
+	(via
+		(at 125 90)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "d5a5253b-8d39-4f5a-b3b7-23d62c16e458")
+	)
+	(via
+		(at 147.5 85)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "d9084050-e906-4475-8fd4-7c1a1660487d")
 	)
 	(via
 		(at 143.1 99.99)
@@ -8246,6 +9814,15 @@
 		(uuid "dfafabc5-03f0-4d32-a113-e9e8d38a622f")
 	)
 	(via
+		(at 143.5 91.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "e2592528-19d7-4f4d-9019-2f395e21461c")
+	)
+	(via
 		(at 136.7 104.28)
 		(size 0.7)
 		(drill 0.3)
@@ -8253,6 +9830,42 @@
 		(free yes)
 		(net 2)
 		(uuid "e6126a02-8176-498c-8c59-53df1992eea1")
+	)
+	(via
+		(at 145 103.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "f0bb9ab5-85f4-4f01-8d58-3fee7836b05e")
+	)
+	(via
+		(at 143.5 102.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "f538b61a-43fe-428b-8e23-eddb7b7dcc29")
+	)
+	(via
+		(at 130 90)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "f6c1a50f-9af3-4d66-85da-c4c0acd5e802")
+	)
+	(via
+		(at 131.5 105.5)
+		(size 0.7)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "f99bf883-db68-437d-adcd-fd40dd3fcccc")
 	)
 	(segment
 		(start 134.5 100.53)
@@ -9775,6 +11388,1728 @@
 		(uuid "d25d59d9-91fd-4129-a40a-0fc965ffa2d1")
 	)
 	(zone
+		(net 6)
+		(net_name "/SWITCH")
+		(layer "F.Cu")
+		(uuid "01c8d12e-ad23-473f-b4ad-771e34471582")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30042)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 145.74 97.09) (xy 145.74 96.89) (xy 145.386662 96.730276) (xy 145.149 96.99) (xy 145.386662 97.249724)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 145.74 97.09) (xy 145.74 96.89) (xy 145.386662 96.730276) (xy 145.149 96.99) (xy 145.386662 97.249724)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "05d141c4-be81-48c8-bf4f-d98541e80a1b")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30018)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 134.042934 102.995066) (xy 134.255066 102.782934) (xy 134.01 102.35402) (xy 133.699293 102.439293)
+				(xy 133.584021 102.72)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 134.042934 102.995066) (xy 134.255066 102.782934) (xy 134.01 102.35402) (xy 133.699293 102.439293)
+				(xy 133.584021 102.72)
+			)
+		)
+	)
+	(zone
+		(net 14)
+		(net_name "/USB_conn+")
+		(layer "F.Cu")
+		(uuid "14a6edf9-afef-46b2-8fda-632360aecea6")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30054)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.18 97.63) (xy 124.18 97.83) (xy 124.33 97.88) (xy 124.911 97.73) (xy 124.33 97.58)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.18 97.63) (xy 124.18 97.83) (xy 124.33 97.88) (xy 124.911 97.73) (xy 124.33 97.58)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "1d44d921-ede1-4ee0-b72e-6bc5f64d8f58")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30050)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 145.15 95.388579) (xy 145.008579 95.53) (xy 144.849909 95.768921) (xy 145.150707 95.970707)
+				(xy 145.386989 95.710494)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 145.15 95.388579) (xy 145.008579 95.53) (xy 144.849909 95.768921) (xy 145.150707 95.970707)
+				(xy 145.386989 95.710494)
+			)
+		)
+	)
+	(zone
+		(net 12)
+		(net_name "/CC2")
+		(layer "F.Cu")
+		(uuid "201ef321-17c2-4881-8f1c-3e61e397b136")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30045)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 122.85 103.88) (xy 122.85 104.08) (xy 123.152552 104.25) (xy 123.391 103.98) (xy 123.152552 103.71)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 122.85 103.88) (xy 122.85 104.08) (xy 123.152552 104.25) (xy 123.391 103.98) (xy 123.152552 103.71)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "27cf3731-011c-4663-8329-83d731c36ecb")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30040)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 140.36565 95.902219) (xy 140.577781 96.11435) (xy 140.813386 96.270631) (xy 141.020707 95.979293)
+				(xy 140.780619 95.711582)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 140.36565 95.902219) (xy 140.577781 96.11435) (xy 140.813386 96.270631) (xy 141.020707 95.979293)
+				(xy 140.780619 95.711582)
+			)
+		)
+	)
+	(zone
+		(net 5)
+		(net_name "/OSC_OUT")
+		(layer "F.Cu")
+		(uuid "28861a6f-3856-4a64-8754-75a855f3db40")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30032)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 139.075 95.39) (xy 138.885 95.39) (xy 138.710657 95.756424) (xy 138.98 95.981) (xy 139.249343 95.756424)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 139.075 95.39) (xy 138.885 95.39) (xy 138.710657 95.756424) (xy 138.98 95.981) (xy 139.249343 95.756424)
+			)
+		)
+	)
+	(zone
+		(net 14)
+		(net_name "/USB_conn+")
+		(layer "F.Cu")
+		(uuid "2b71018a-50e1-472f-853a-1665ae384f9d")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30056)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 125.64 98.83) (xy 125.64 98.63) (xy 125.49 98.58) (xy 124.909 98.73) (xy 125.49 98.88)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.64 98.83) (xy 125.64 98.63) (xy 125.49 98.58) (xy 124.909 98.73) (xy 125.49 98.88)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "3605055d-a822-4623-97d2-a7f545affd4a")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30034)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 127.86 92.23) (xy 127.86 92.53) (xy 128.177992 92.628606) (xy 128.401 92.3425) (xy 128.151425 92.089151)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 127.86 92.23) (xy 127.86 92.53) (xy 128.177992 92.628606) (xy 128.401 92.3425) (xy 128.151425 92.089151)
+			)
+		)
+	)
+	(zone
+		(net 5)
+		(net_name "/OSC_OUT")
+		(layer "F.Cu")
+		(uuid "360dd3cd-bfdb-4a30-9855-6b68d5a5ded5")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30033)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 139.140814 96.555165) (xy 139.275165 96.420814) (xy 139.26 95.920819) (xy 138.979293 95.979293)
+				(xy 138.809232 96.283879)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 139.140814 96.555165) (xy 139.275165 96.420814) (xy 139.26 95.920819) (xy 138.979293 95.979293)
+				(xy 138.809232 96.283879)
+			)
+		)
+	)
+	(zone
+		(net 8)
+		(net_name "/LED_ON-")
+		(layer "F.Cu")
+		(uuid "395f1516-e0af-4729-a9ea-ded2d5c6195b")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30048)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 129.96 92.4425) (xy 129.96 92.2425) (xy 129.657448 92.0725) (xy 129.419 92.3425) (xy 129.657448 92.6125)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 129.96 92.4425) (xy 129.96 92.2425) (xy 129.657448 92.0725) (xy 129.419 92.3425) (xy 129.657448 92.6125)
+			)
+		)
+	)
+	(zone
+		(net 13)
+		(net_name "/CC1")
+		(layer "F.Cu")
+		(uuid "3cbb3e18-c752-4b6e-8fa6-546b09a9f30d")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30046)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 122.85 91.88) (xy 122.85 92.08) (xy 123.152552 92.25) (xy 123.391 91.98) (xy 123.152552 91.71)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 122.85 91.88) (xy 122.85 92.08) (xy 123.152552 92.25) (xy 123.391 91.98) (xy 123.152552 91.71)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/NRST")
+		(layer "F.Cu")
+		(uuid "47495e5f-2780-43a7-be8c-d5fa02f4bed2")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30043)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 133.11 99.885) (xy 133.11 100.075) (xy 133.463338 100.249724) (xy 133.701 99.99) (xy 133.463338 99.730276)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 133.11 99.885) (xy 133.11 100.075) (xy 133.463338 100.249724) (xy 133.701 99.99) (xy 133.463338 99.730276)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/NRST")
+		(layer "F.Cu")
+		(uuid "4a61ba96-e32a-4d16-bba1-ac718c62f178")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30049)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 133.605 100.53) (xy 133.795 100.53) (xy 133.97 100.227447) (xy 133.7 99.989) (xy 133.43 100.227447)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 133.605 100.53) (xy 133.795 100.53) (xy 133.97 100.227447) (xy 133.7 99.989) (xy 133.43 100.227447)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "4a7bc682-95cb-41d6-abe2-28f17aca5fd2")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30001)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 139.85 95.364315) (xy 140.15 95.364315) (xy 141.253682 94.93) (xy 141 94.329) (xy 140.3 94.190079)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 139.85 95.364315) (xy 140.15 95.364315) (xy 141.253682 94.93) (xy 141 94.329) (xy 140.3 94.190079)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "4a88cbd1-bf6b-4cba-808a-cd0f38cbcc59")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30007)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 136.154809 101.946941) (xy 136.366941 101.734809) (xy 135.923084 101.170369) (xy 135.449293 101.479293)
+				(xy 135.6875 102.0175)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 136.154809 101.946941) (xy 136.366941 101.734809) (xy 135.923084 101.170369) (xy 135.449293 101.479293)
+				(xy 135.6875 102.0175)
+			)
+		)
+	)
+	(zone
+		(net 4)
+		(net_name "/OSC_IN")
+		(layer "F.Cu")
+		(uuid "57b49889-67fe-4497-9da0-ffe07085cd2d")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30028)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 142.495 95.518986) (xy 142.305 95.518986) (xy 141.884315 95.67) (xy 141.98 95.981) (xy 142.26 96.089247)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 142.495 95.518986) (xy 142.305 95.518986) (xy 141.884315 95.67) (xy 141.98 95.981) (xy 142.26 96.089247)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "5a228291-7c1e-4db4-997e-d729b091fb47")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30011)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 129.306066 102.660699) (xy 129.518198 102.448567) (xy 129.2 102.194312) (xy 128.536793 102.341793)
+				(xy 128.50375 102.6425)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 129.306066 102.660699) (xy 129.518198 102.448567) (xy 129.2 102.194312) (xy 128.536793 102.341793)
+				(xy 128.50375 102.6425)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "5ea01e0f-5824-4de8-b568-7f80b1d472e7")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30000)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.8 102.6675) (xy 139 102.6675) (xy 140.214254 102.08) (xy 139.7 100.679) (xy 138.3 102.08)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.8 102.6675) (xy 139 102.6675) (xy 140.214254 102.08) (xy 139.7 100.679) (xy 138.3 102.08)
+			)
+		)
+	)
+	(zone
+		(net 11)
+		(net_name "/USB_conn-")
+		(layer "F.Cu")
+		(uuid "5ece4ab4-657d-46ba-a636-358ec3ea33de")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30022)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 128.092544 100.813193) (xy 127.958193 100.947544) (xy 127.894194 101.173458) (xy 128.538207 101.393207)
+				(xy 128.661764 101.0925)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 128.092544 100.813193) (xy 127.958193 100.947544) (xy 127.894194 101.173458) (xy 128.538207 101.393207)
+				(xy 128.661764 101.0925)
+			)
+		)
+	)
+	(zone
+		(net 31)
+		(net_name "/USB_DP")
+		(layer "F.Cu")
+		(uuid "5f1c2229-2520-46ad-9a42-cbb1dbd201be")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30014)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 131.775 103.3925) (xy 131.775 103.1925) (xy 131.382403 103.003918) (xy 130.8115 103.2925) (xy 131.382403 103.581082)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 131.775 103.3925) (xy 131.775 103.1925) (xy 131.382403 103.003918) (xy 130.8115 103.2925) (xy 131.382403 103.581082)
+			)
+		)
+	)
+	(zone
+		(net 11)
+		(net_name "/USB_conn-")
+		(layer "F.Cu")
+		(uuid "60daf10f-4e26-4696-b83f-2aba76ea42d0")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30058)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 125.64 97.325) (xy 125.64 97.135) (xy 125.49 97.08) (xy 124.909 97.23) (xy 125.49 97.38)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.64 97.325) (xy 125.64 97.135) (xy 125.49 97.08) (xy 124.909 97.23) (xy 125.49 97.38)
+			)
+		)
+	)
+	(zone
+		(net 21)
+		(net_name "/BOOT0")
+		(layer "F.Cu")
+		(uuid "6217d7d8-e9cb-4dbc-a6b5-eea7e49c32d4")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30027)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 142.729305 97.477884) (xy 142.587884 97.619305) (xy 142.78 98.051837) (xy 143.100707 97.990707)
+				(xy 143.211837 97.72)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 142.729305 97.477884) (xy 142.587884 97.619305) (xy 142.78 98.051837) (xy 143.100707 97.990707)
+				(xy 143.211837 97.72)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "62197ac3-ae62-444d-93b6-e412776c215a")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30030)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 137.16 103.83) (xy 137.16 104.13) (xy 137.497475 104.26) (xy 137.721 103.98) (xy 137.497475 103.7)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.16 103.83) (xy 137.16 104.13) (xy 137.497475 104.26) (xy 137.721 103.98) (xy 137.497475 103.7)
+			)
+		)
+	)
+	(zone
+		(net 14)
+		(net_name "/USB_conn+")
+		(layer "F.Cu")
+		(uuid "64b93759-09d6-4f5e-b1a4-138d80b28382")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30021)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 127.707312 103.073073) (xy 127.56589 103.214495) (xy 127.884232 103.488915) (xy 128.538207 103.293207)
+				(xy 127.967597 103.003918)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 127.707312 103.073073) (xy 127.56589 103.214495) (xy 127.884232 103.488915) (xy 128.538207 103.293207)
+				(xy 127.967597 103.003918)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "6a7069a5-2373-4d39-921e-44ac98d22b54")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30036)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.95 104.13) (xy 124.95 103.83) (xy 124.647448 103.71) (xy 124.409 103.98) (xy 124.647448 104.25)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.95 104.13) (xy 124.95 103.83) (xy 124.647448 103.71) (xy 124.409 103.98) (xy 124.647448 104.25)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "6d46acd0-bf50-486f-a614-6c29e0abfbe5")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30029)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 145 100.49) (xy 145.3 100.49) (xy 145.43 100.152524) (xy 145.15 99.929) (xy 144.87 100.152524)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 145 100.49) (xy 145.3 100.49) (xy 145.43 100.152524) (xy 145.15 99.929) (xy 144.87 100.152524)
+			)
+		)
+	)
+	(zone
+		(net 13)
+		(net_name "/CC1")
+		(layer "F.Cu")
+		(uuid "6eb4b584-0b2a-4459-afcd-3aa7fd899f8c")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30053)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.18 96.63) (xy 124.18 96.83) (xy 124.33 96.88) (xy 124.911 96.73) (xy 124.33 96.58)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.18 96.63) (xy 124.18 96.83) (xy 124.33 96.88) (xy 124.911 96.73) (xy 124.33 96.58)
+			)
+		)
+	)
+	(zone
+		(net 9)
+		(net_name "/LED_STATUS-")
+		(layer "F.Cu")
+		(uuid "81c24897-7f98-4687-8aa5-4e6279da211f")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30008)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 150.025 104.08) (xy 150.025 103.88) (xy 149.483665 103.5425) (xy 149.149 103.98) (xy 149.483665 104.4175)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 150.025 104.08) (xy 150.025 103.88) (xy 149.483665 103.5425) (xy 149.149 103.98) (xy 149.483665 104.4175)
+			)
+		)
+	)
+	(zone
+		(net 1)
+		(net_name "VBUS")
+		(layer "F.Cu")
+		(uuid "8249f0b8-dd2d-464c-acb6-cbf1112b0229")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30016)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 125.79 100.53) (xy 125.79 100.23) (xy 125.49 100.08) (xy 124.909 100.38) (xy 125.49 100.68)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.79 100.53) (xy 125.79 100.23) (xy 125.49 100.08) (xy 124.909 100.38) (xy 125.49 100.68)
+			)
+		)
+	)
+	(zone
+		(net 5)
+		(net_name "/OSC_OUT")
+		(layer "F.Cu")
+		(uuid "8dc6934d-5abb-4a54-a90c-5381acc60e39")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30003)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.885 95.53) (xy 139.075 95.53) (xy 139.496777 94.93) (xy 138.8 94.329) (xy 138.283373 94.93)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.885 95.53) (xy 139.075 95.53) (xy 139.496777 94.93) (xy 138.8 94.329) (xy 138.283373 94.93)
+			)
+		)
+	)
+	(zone
+		(net 9)
+		(net_name "/LED_STATUS-")
+		(layer "F.Cu")
+		(uuid "8dd635cd-4a3a-4130-91a8-d59df2c02a46")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30047)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 150.3025 103.88) (xy 150.3025 104.08) (xy 150.605052 104.25) (xy 150.8435 103.98) (xy 150.605052 103.71)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 150.3025 103.88) (xy 150.3025 104.08) (xy 150.605052 104.25) (xy 150.8435 103.98) (xy 150.605052 103.71)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "93ef19ea-8f2f-4bb9-af5e-d2e3d7af205d")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30005)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 134.789719 100.607587) (xy 134.577587 100.819719) (xy 134.975 101.676752) (xy 135.450707 101.480707)
+				(xy 135.584252 100.9425)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 134.789719 100.607587) (xy 134.577587 100.819719) (xy 134.975 101.676752) (xy 135.450707 101.480707)
+				(xy 135.584252 100.9425)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "9711329b-036c-4c3b-8ffa-aa3d8096f5e6")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30035)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 142.95 99.55) (xy 143.25 99.55) (xy 143.37 99.247447) (xy 143.1 99.009) (xy 142.83 99.247447)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 142.95 99.55) (xy 143.25 99.55) (xy 143.37 99.247447) (xy 143.1 99.009) (xy 142.83 99.247447)
+			)
+		)
+	)
+	(zone
+		(net 11)
+		(net_name "/USB_conn-")
+		(layer "F.Cu")
+		(uuid "9891f8fc-72e7-4b8c-9d4e-021f99aded73")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30057)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 125.64 98.33) (xy 125.64 98.13) (xy 125.49 98.08) (xy 124.909 98.23) (xy 125.49 98.38)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.64 98.33) (xy 125.64 98.13) (xy 125.49 98.08) (xy 124.909 98.23) (xy 125.49 98.38)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "9d5244e8-e0fc-4008-bc0b-52fc1e7bed4c")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30017)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.167048 97.807666) (xy 138.37918 98.019798) (xy 138.797617 97.75) (xy 138.700707 97.439293)
+				(xy 138.42 97.332519)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.167048 97.807666) (xy 138.37918 98.019798) (xy 138.797617 97.75) (xy 138.700707 97.439293)
+				(xy 138.42 97.332519)
+			)
+		)
+	)
+	(zone
+		(net 4)
+		(net_name "/OSC_IN")
+		(layer "F.Cu")
+		(uuid "9f456d72-59ae-43d7-8b43-e8c18afe23a9")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30004)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 142.159601 92.873951) (xy 142.293951 92.739601) (xy 141.7 92.124368) (xy 140.999293 92.629293)
+				(xy 141.7 93.23)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 142.159601 92.873951) (xy 142.293951 92.739601) (xy 141.7 92.124368) (xy 140.999293 92.629293)
+				(xy 141.7 93.23)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "a0051796-8884-4ccf-b7be-bd902f24483d")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30006)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 135.6 98.7425) (xy 135.3 98.7425) (xy 134.993079 99.364113) (xy 135.45 99.756) (xy 135.906921 99.364113)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 135.6 98.7425) (xy 135.3 98.7425) (xy 134.993079 99.364113) (xy 135.45 99.756) (xy 135.906921 99.364113)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "a21597ee-ca86-4284-a1bf-057b9bf16f25")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30038)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 152.4025 104.13) (xy 152.4025 103.83) (xy 152.099948 103.71) (xy 151.8615 103.98) (xy 152.099948 104.25)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 152.4025 104.13) (xy 152.4025 103.83) (xy 152.099948 103.71) (xy 151.8615 103.98) (xy 152.099948 104.25)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "a3461e92-7b2d-4e0a-895f-7551f286caea")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30002)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.95 91.43) (xy 138.65 91.43) (xy 138.2 92.03) (xy 138.8 92.631) (xy 139.4 92.03)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.95 91.43) (xy 138.65 91.43) (xy 138.2 92.03) (xy 138.8 92.631) (xy 139.4 92.03)
+			)
+		)
+	)
+	(zone
+		(net 12)
+		(net_name "/CC2")
+		(layer "F.Cu")
+		(uuid "a4220254-9668-409e-8e21-b61e5a78bf87")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30052)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.18 99.63) (xy 124.18 99.83) (xy 124.33 99.88) (xy 124.911 99.73) (xy 124.33 99.58)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.18 99.63) (xy 124.18 99.83) (xy 124.33 99.88) (xy 124.911 99.73) (xy 124.33 99.58)
+			)
+		)
+	)
+	(zone
+		(net 8)
+		(net_name "/LED_ON-")
+		(layer "F.Cu")
+		(uuid "a4405a7e-dad6-4a2a-9055-15a236164bca")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30010)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 130.005 92.2425) (xy 130.005 92.4425) (xy 130.546335 92.78) (xy 130.881 92.3425) (xy 130.546335 91.905)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 130.005 92.2425) (xy 130.005 92.4425) (xy 130.546335 92.78) (xy 130.881 92.3425) (xy 130.546335 91.905)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/NRST")
+		(layer "F.Cu")
+		(uuid "a4aec0e8-e0eb-40b3-902a-73bb9726cd54")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30041)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 133.795 100.92) (xy 133.605 100.92) (xy 133.42 101.257475) (xy 133.7 101.481) (xy 133.98 101.257475)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 133.795 100.92) (xy 133.605 100.92) (xy 133.42 101.257475) (xy 133.7 101.481) (xy 133.98 101.257475)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "a8137270-3914-4af3-b0fa-eb792f5fd91c")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30023)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 134.253465 98.638667) (xy 134.041333 98.426535) (xy 133.589959 98.7) (xy 133.699293 98.970707)
+				(xy 134.02 99.034758)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 134.253465 98.638667) (xy 134.041333 98.426535) (xy 133.589959 98.7) (xy 133.699293 98.970707)
+				(xy 134.02 99.034758)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "b2664b3e-b0c6-4724-a0d3-bae5dc17fa1e")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30025)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 137.50928 95.53) (xy 137.50928 95.83) (xy 137.74 96.139832) (xy 138.021 95.98) (xy 138.045853 95.67)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.50928 95.53) (xy 137.50928 95.83) (xy 137.74 96.139832) (xy 138.021 95.98) (xy 138.045853 95.67)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "b75809b2-0011-44f8-81e0-020a78bb2a07")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30019)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 137.397066 96.884934) (xy 137.184934 97.097066) (xy 137.46 97.555979) (xy 137.740707 97.440707)
+				(xy 137.825979 97.13)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.397066 96.884934) (xy 137.184934 97.097066) (xy 137.46 97.555979) (xy 137.740707 97.440707)
+				(xy 137.825979 97.13)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "b75c573e-4dc8-4bc8-9fcf-cd4d3c2b0027")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30026)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.968413 98.018474) (xy 139.109834 97.877053) (xy 138.98 97.355397) (xy 138.699293 97.439293)
+				(xy 138.570173 97.75)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.968413 98.018474) (xy 139.109834 97.877053) (xy 138.98 97.355397) (xy 138.699293 97.439293)
+				(xy 138.570173 97.75)
+			)
+		)
+	)
+	(zone
 		(net 3)
 		(net_name "+3.3V")
 		(layer "F.Cu")
@@ -9851,6 +13186,80 @@
 		)
 	)
 	(zone
+		(net 4)
+		(net_name "/OSC_IN")
+		(layer "F.Cu")
+		(uuid "c3bbddb8-682f-4b13-9372-df493572c728")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30051)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 141.721907 96.423743) (xy 141.856257 96.558093) (xy 142.166817 96.280687) (xy 141.980707 95.979293)
+				(xy 141.7 96.15)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 141.721907 96.423743) (xy 141.856257 96.558093) (xy 142.166817 96.280687) (xy 141.980707 95.979293)
+				(xy 141.7 96.15)
+			)
+		)
+	)
+	(zone
+		(net 2)
+		(net_name "GND")
+		(layer "F.Cu")
+		(uuid "c5474bc7-e5db-48dc-8049-d922a5fd1176")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30037)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.95 92.13) (xy 124.95 91.83) (xy 124.647448 91.71) (xy 124.409 91.98) (xy 124.647448 92.25)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.95 92.13) (xy 124.95 91.83) (xy 124.647448 91.71) (xy 124.409 91.98) (xy 124.647448 92.25)
+			)
+		)
+	)
+	(zone
 		(net 2)
 		(net_name "GND")
 		(layer "F.Cu")
@@ -9892,6 +13301,376 @@
 				(xy 131.96952 96.226518) (xy 131.970472 96.226208) (xy 131.970476 96.226208) (xy 131.989691 96.217858)
 				(xy 132.000099 96.213883) (xy 132.105808 96.178853) (xy 132.132337 96.173188) (xy 132.132929 96.173127)
 				(xy 132.145387 96.1725) (xy 132.654609 96.1725)
+			)
+		)
+	)
+	(zone
+		(net 10)
+		(net_name "/LED")
+		(layer "F.Cu")
+		(uuid "ca9d47fc-54b6-4919-8d8d-b963c160f444")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30009)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 146.7 103.88) (xy 146.7 104.08) (xy 147.241335 104.4175) (xy 147.576 103.98) (xy 147.241335 103.5425)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 146.7 103.88) (xy 146.7 104.08) (xy 147.241335 104.4175) (xy 147.576 103.98) (xy 147.241335 103.5425)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "d234e871-5cdd-491e-9fbd-0504b95c9cf8")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30020)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 139.235066 103.637066) (xy 139.022934 103.424934) (xy 138.594021 103.67) (xy 138.679293 103.980707)
+				(xy 138.96 104.095979)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 139.235066 103.637066) (xy 139.022934 103.424934) (xy 138.594021 103.67) (xy 138.679293 103.980707)
+				(xy 138.96 104.095979)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/SWITCH")
+		(layer "F.Cu")
+		(uuid "d74b6452-aa16-46f0-8c95-ee9706dcafdc")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30044)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 145.05 97.53) (xy 145.25 97.53) (xy 145.42 97.227447) (xy 145.15 96.989) (xy 144.88 97.227447)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 145.05 97.53) (xy 145.25 97.53) (xy 145.42 97.227447) (xy 145.15 96.989) (xy 144.88 97.227447)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/SWITCH")
+		(layer "F.Cu")
+		(uuid "e45b9c51-2819-49c2-b963-b5a1b4cf54b5")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30039)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 145.25 98.41) (xy 145.05 98.41) (xy 144.87 98.747475) (xy 145.15 98.971) (xy 145.43 98.747475)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 145.25 98.41) (xy 145.05 98.41) (xy 144.87 98.747475) (xy 145.15 98.971) (xy 145.43 98.747475)
+			)
+		)
+	)
+	(zone
+		(net 3)
+		(net_name "+3.3V")
+		(layer "F.Cu")
+		(uuid "e5786f7c-17c6-498d-a4f6-847504db9a0b")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30024)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 138.456005 103.365945) (xy 138.243873 103.578077) (xy 138.4 104.062647) (xy 138.680707 103.980707)
+				(xy 138.812663 103.67)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.456005 103.365945) (xy 138.243873 103.578077) (xy 138.4 104.062647) (xy 138.680707 103.980707)
+				(xy 138.812663 103.67)
+			)
+		)
+	)
+	(zone
+		(net 1)
+		(net_name "VBUS")
+		(layer "F.Cu")
+		(uuid "e992ce03-2030-4c90-9a7d-9a7f9c8b0eec")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30015)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 125.79 100.53) (xy 125.79 100.23) (xy 125.49 100.08) (xy 124.909 100.38) (xy 125.49 100.68)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.79 100.53) (xy 125.79 100.23) (xy 125.49 100.08) (xy 124.909 100.38) (xy 125.49 100.68)
+			)
+		)
+	)
+	(zone
+		(net 14)
+		(net_name "/USB_conn+")
+		(layer "F.Cu")
+		(uuid "ed95344f-3d07-4ff4-a93d-9d2086871b71")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30055)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 124.18 98.63) (xy 124.18 98.83) (xy 124.33 98.88) (xy 124.911 98.73) (xy 124.33 98.58)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.18 98.63) (xy 124.18 98.83) (xy 124.33 98.88) (xy 124.911 98.73) (xy 124.33 98.58)
+			)
+		)
+	)
+	(zone
+		(net 1)
+		(net_name "VBUS")
+		(layer "F.Cu")
+		(uuid "f31aa631-52a6-449f-bf25-9aca33bda77f")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30012)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 130.043934 102.024301) (xy 129.831802 102.236433) (xy 130.15 102.490687) (xy 130.813207 102.343207)
+				(xy 130.84625 102.0425)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 130.043934 102.024301) (xy 129.831802 102.236433) (xy 130.15 102.490687) (xy 130.813207 102.343207)
+				(xy 130.84625 102.0425)
+			)
+		)
+	)
+	(zone
+		(net 36)
+		(net_name "/USB_DN")
+		(layer "F.Cu")
+		(uuid "f77d3c61-87b7-45fe-843e-8a7bd8aa8e5c")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30013)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 131.616421 101.719642) (xy 131.757842 101.578221) (xy 131.475 101.273939) (xy 130.811793 101.391793)
+				(xy 130.771046 101.6925)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 131.616421 101.719642) (xy 131.757842 101.578221) (xy 131.475 101.273939) (xy 130.811793 101.391793)
+				(xy 130.771046 101.6925)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/SWITCH")
+		(layer "F.Cu")
+		(uuid "fa30a544-97a1-445d-b21d-a1bde56cb968")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30031)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 144.5713 99.187279) (xy 144.712721 99.3287) (xy 145.223378 99.25) (xy 145.150707 98.969293)
+				(xy 144.841417 98.822872)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 144.5713 99.187279) (xy 144.712721 99.3287) (xy 145.223378 99.25) (xy 145.150707 98.969293)
+				(xy 144.841417 98.822872)
 			)
 		)
 	)
