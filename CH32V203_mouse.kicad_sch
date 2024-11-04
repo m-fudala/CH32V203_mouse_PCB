@@ -5749,7 +5749,7 @@
 		)
 		(uuid "2be886fe-15be-46de-908a-db7c642fe1fd")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 86.36 63.5 180)
 		(fields_autoplaced yes)
 		(effects
@@ -5782,7 +5782,7 @@
 		)
 		(uuid "3fe54521-0eb8-4e8a-ab3e-024a4c6ae93f")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 176.53 82.55 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6944,10 +6944,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4eae131d-9088-4c6e-8e94-2d3ed1ae5893")
 		(property "Reference" "R1"
-			(at 63.5 83.8199 0)
+			(at 56.896 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6956,7 +6955,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 63.5 86.3599 0)
+			(at 55.88 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,15 +7904,15 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 68.58 85.09 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "793da4ef-70cd-40a3-8465-9a0a6bec5b61")
 		(property "Reference" "R2"
-			(at 71.12 83.8199 0)
+			(at 72.644 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7922,7 +7921,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 71.12 86.3599 0)
+			(at 73.66 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7931,7 +7930,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 66.802 85.09 90)
+			(at 70.358 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
