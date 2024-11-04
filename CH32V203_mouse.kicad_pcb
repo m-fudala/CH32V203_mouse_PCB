@@ -3,40 +3,29 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.59)
+		(thickness 1.6062)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
 	(layers
-		(0 "F.Cu" signal)
-		(31 "B.Cu" signal)
+		(0 "F.Cu" signal "Top.Cu")
+		(1 "In1.Cu" power "GND1.Cu")
+		(2 "In2.Cu" power "GND2.Cu")
+		(31 "B.Cu" signal "Bottom.Cu")
 		(32 "B.Adhes" user "B.Adhesive")
-		(33 "F.Adhes" user "F.Adhesive")
 		(34 "B.Paste" user)
 		(35 "F.Paste" user)
 		(36 "B.SilkS" user "B.Silkscreen")
 		(37 "F.SilkS" user "F.Silkscreen")
 		(38 "B.Mask" user)
 		(39 "F.Mask" user)
-		(40 "Dwgs.User" user "User.Drawings")
-		(41 "Cmts.User" user "User.Comments")
 		(42 "Eco1.User" user "User.Eco1")
-		(43 "Eco2.User" user "User.Eco2")
 		(44 "Edge.Cuts" user)
 		(45 "Margin" user)
 		(46 "B.CrtYd" user "B.Courtyard")
 		(47 "F.CrtYd" user "F.Courtyard")
 		(48 "B.Fab" user)
 		(49 "F.Fab" user)
-		(50 "User.1" user)
-		(51 "User.2" user)
-		(52 "User.3" user)
-		(53 "User.4" user)
-		(54 "User.5" user)
-		(55 "User.6" user)
-		(56 "User.7" user)
-		(57 "User.8" user)
-		(58 "User.9" user)
 	)
 	(setup
 		(stackup
@@ -55,8 +44,30 @@
 				(thickness 0.035)
 			)
 			(layer "dielectric 1"
+				(type "prepreg")
+				(thickness 0.2104)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "In1.Cu"
+				(type "copper")
+				(thickness 0.0152)
+			)
+			(layer "dielectric 2"
 				(type "core")
-				(thickness 1.5)
+				(thickness 1.065)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "In2.Cu"
+				(type "copper")
+				(thickness 0.0152)
+			)
+			(layer "dielectric 3"
+				(type "prepreg")
+				(thickness 0.2104)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -1018,7 +1029,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "134ffe66-984f-46a6-8f7a-d90376f07b1b")
-		(at 120 87)
+		(at 122 87)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H1"
@@ -1137,7 +1148,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "163e0de4-02fe-4f02-a54d-e304587f1372")
-		(at 120 108)
+		(at 122 108)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H3"
@@ -1471,7 +1482,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2cd67fe6-7c61-40fa-b421-642a8735d483")
-		(at 153.2025 103.5)
+		(at 152.4525 103.5)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -1898,17 +1909,17 @@
 			)
 		)
 	)
-	(footprint "Diode_SMD:D_0603_1608Metric"
+	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "385e59f7-b038-4d14-b9c0-f52f8f3fed2b")
-		(at 150.2125 103.5 180)
-		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
-		(tags "diode")
+		(at 149.4625 103.5 180)
+		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(tags "LED")
 		(property "Reference" "D2"
-			(at 0 -1.43 0)
+			(at 0 -1.43 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "cc511820-3bc6-494b-b4c0-2281784958ea")
+			(uuid "882ee667-aef5-4444-8269-e5069df9ad36")
 			(effects
 				(font
 					(size 1 1)
@@ -1917,10 +1928,10 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 0)
+			(at 0 1.43 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e06f1500-bd68-4aff-9386-54c9b9f0f73d")
+			(uuid "316d0136-496a-456c-9792-c46d3c621742")
 			(effects
 				(font
 					(size 1 1)
@@ -1928,12 +1939,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2a0dd5e-8d1a-4f0d-a977-3e50d6d8d52b")
+			(uuid "55abe6cb-0694-487f-83c7-8fd83ec26fe0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1946,7 +1957,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70c234ae-2165-4581-87e6-04bdff52544f")
+			(uuid "eecac7dd-12b8-40a2-ba11-98db6f4646c7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1959,7 +1970,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eadb445a-fab2-43f4-ad7a-3b64dfb8102d")
+			(uuid "c54a32d2-761b-4fc2-b95c-510f453e7a9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1980,7 +1991,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ed89b85d-949d-4769-a887-17e936e81d6d")
+			(uuid "e054623c-a531-4e2e-8302-a863a8f41a00")
 		)
 		(fp_line
 			(start -1.485 0.735)
@@ -1990,7 +2001,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41440092-276d-44a0-85f2-687f14c0cf4d")
+			(uuid "cfb938f0-b2d4-4f44-bcdd-566fb77c052c")
 		)
 		(fp_line
 			(start -1.485 -0.735)
@@ -2000,7 +2011,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6b804e2c-8738-466b-8fcb-ab1f941ccf28")
+			(uuid "aea90e7b-2fe6-4642-8976-ae4af328b964")
 		)
 		(fp_line
 			(start 1.48 0.73)
@@ -2010,7 +2021,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1321e53a-1af3-49b2-8887-65f3bbe5e83c")
+			(uuid "3e393719-0566-42e4-bc64-02f48a46b167")
 		)
 		(fp_line
 			(start 1.48 -0.73)
@@ -2020,7 +2031,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cf763255-580d-470a-b4c7-79bd582ff07a")
+			(uuid "5b90fc28-ad8e-4916-be80-e4a77ea14204")
 		)
 		(fp_line
 			(start -1.48 0.73)
@@ -2030,7 +2041,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9c496948-bda7-499a-95e0-2633493fcd6b")
+			(uuid "4c51aea6-b695-4414-af29-8e02d19eaedf")
 		)
 		(fp_line
 			(start -1.48 -0.73)
@@ -2040,7 +2051,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "412d24e6-7eca-440b-99ec-e3d5230d0c0c")
+			(uuid "32ff1bd0-6f20-4c9e-b70c-79410d9ef882")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -2050,7 +2061,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d5d8bf1b-91c3-4a9c-87fe-4acf6ae67ba1")
+			(uuid "1c847393-0acb-45e7-952e-b64b655c0549")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -2060,7 +2071,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5863cfbc-806d-4325-98c0-8bf41149629c")
+			(uuid "2cef2bc1-4531-46ed-a4f7-0403f42372b5")
 		)
 		(fp_line
 			(start -0.5 -0.4)
@@ -2070,7 +2081,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8a73bf3a-31f5-4c38-b0b0-ee8266a5ae18")
+			(uuid "09a16b89-b603-47c0-823b-7c30be934dc8")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -2080,7 +2091,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8cfe1217-eb82-49be-a8ee-3341c6effc8a")
+			(uuid "422cbda1-d74f-4e75-8a0d-045196b07890")
 		)
 		(fp_line
 			(start -0.8 -0.1)
@@ -2090,12 +2101,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dae67735-f7b7-44af-bddb-84a7e2fb79da")
+			(uuid "4e628faf-403e-4ca0-9cc3-ff786d3db025")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 180)
 			(layer "F.Fab")
-			(uuid "c254bfe8-b85e-41f6-875f-18cf493c9daf")
+			(uuid "94621a84-214c-4b0c-ac04-0fc6cca0c43d")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -2111,7 +2122,7 @@
 			(net 9 "/LED_STATUS-")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "583ee94b-f70f-432e-b0eb-62ac46cf5525")
+			(uuid "f2261e9f-e2fd-402d-bb7d-e94a87e74166")
 		)
 		(pad "2" smd roundrect
 			(at 0.7875 0 180)
@@ -2121,9 +2132,9 @@
 			(net 10 "/LED")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1ed22f6f-bd7e-4dfb-9003-2bb3babc7122")
+			(uuid "5cbc192d-815c-49b4-837d-5c1a78bef714")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0603_1608Metric.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2910,7 +2921,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4c383400-b241-4c5b-b29e-aab7e0488c2b")
-		(at 147 98.97 -90)
+		(at 146.25 98.97 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -5029,7 +5040,7 @@
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 		(layer "F.Cu")
 		(uuid "8ef351b0-f6bb-43d7-801f-1465b3ae5ae6")
-		(at 149.5 100.5 90)
+		(at 148.75 100.5 90)
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW1"
@@ -5633,7 +5644,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "a63d03b6-0da8-4b46-a7c6-a0bbaf3e6eda")
-		(at 158 87)
+		(at 153 87)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H2"
@@ -5752,7 +5763,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "a76b9b50-9175-4490-8903-2562cf840925")
-		(at 158 108)
+		(at 153 108)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H4"
@@ -6684,7 +6695,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "efa8f5ca-f127-4531-b995-02b596f3b664")
-		(at 147 96 -90)
+		(at 146.25 96 -90)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
