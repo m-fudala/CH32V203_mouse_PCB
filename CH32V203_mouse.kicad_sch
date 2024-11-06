@@ -6222,6 +6222,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25905"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
+			(at 57.15 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d33e0a38-b094-4645-99da-722154d55060")
 		)
@@ -6284,6 +6302,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 120.65 59.69 0)
 			(effects
 				(font
@@ -6390,7 +6426,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 72.39 113.792 0)
 			(effects
 				(font
@@ -6417,6 +6453,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2286"
+			(at 72.39 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603R/C2286"
 			(at 72.39 116.84 0)
 			(effects
 				(font
@@ -6512,7 +6566,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "2946a8fc-6606-413e-856b-c06f23714f38")
@@ -6552,6 +6606,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 255.27 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 255.27 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
 			(at 255.27 144.78 0)
 			(effects
 				(font
@@ -6703,6 +6775,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C15849"
+			(at 63.5 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+			(at 63.5 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4ee1dea0-9429-4d01-ae91-cb6bcc341d2a")
 		)
@@ -6767,6 +6857,24 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 72.39 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5180279"
+			(at 72.39 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/ElecSuper-USBLC6_4SC6ES/C5180279"
 			(at 72.39 63.5 0)
 			(effects
 				(font
@@ -6924,6 +7032,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 127 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
+			(at 127 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b577517d-11bf-4cdb-832e-c964d6b65f4a")
 		)
@@ -6982,6 +7108,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 60.96 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905"
+			(at 60.96 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 60.96 85.09 0)
 			(effects
 				(font
@@ -7119,6 +7263,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 33.02 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 33.02 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 33.02 121.92 0)
 			(effects
 				(font
@@ -7330,6 +7492,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 137.16 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
+			(at 137.16 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b488f596-174b-4b53-8d7f-e483067784cd")
 		)
@@ -7386,6 +7566,24 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 212.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C13738"
+			(at 212.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322516MLB4SI/C13738"
 			(at 212.09 54.61 0)
 			(effects
 				(font
@@ -7461,6 +7659,24 @@
 			)
 		)
 		(property "Description" "Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"
+			(at 48.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5446"
+			(at 48.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/TorexSemicon-XC6206P332MRG/C5446"
 			(at 48.26 116.84 0)
 			(effects
 				(font
@@ -7676,6 +7892,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25117"
+			(at 267.97 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/25860-0402WGF4700TCE/C25117"
+			(at 267.97 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd8dc9de-c8f7-4ae8-b042-e22dcf3c40ac")
 		)
@@ -7746,6 +7980,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C1525"
+			(at 212.09 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
+			(at 212.09 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb1e5b7a-47d0-4613-94d6-e5c4312c1ece")
 		)
@@ -7780,7 +8032,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "10p"
 			(at 196.85 60.9599 0)
 			(effects
 				(font
@@ -7808,6 +8060,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C32949"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/33914-CL05C100JB5NNNC/C32949"
 			(at 200.66 59.69 0)
 			(effects
 				(font
@@ -7850,7 +8120,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "10p"
 			(at 227.33 60.9599 0)
 			(effects
 				(font
@@ -7878,6 +8148,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 223.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C32949"
+			(at 223.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/33914-CL05C100JB5NNNC/C32949"
 			(at 223.52 59.69 0)
 			(effects
 				(font
@@ -7948,6 +8236,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 68.58 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905"
+			(at 68.58 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 68.58 85.09 0)
 			(effects
 				(font
@@ -8177,7 +8483,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -8220,6 +8526,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 213.36 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 213.36 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
 			(at 213.36 147.32 0)
 			(effects
 				(font
@@ -8441,6 +8765,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25905"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
+			(at 240.03 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87d21713-ffa7-4874-82fd-dfb56a8b00c2")
 		)
@@ -8503,6 +8845,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 110.49 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C19666"
+			(at 110.49 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/20375-CL10A475KO8NNNC/C19666"
 			(at 110.49 59.69 0)
 			(effects
 				(font
@@ -8581,6 +8941,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25117"
+			(at 81.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/25860-0402WGF4700TCE/C25117"
+			(at 81.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d4d4ad1-da47-49b9-82d6-17998c6b6866")
 		)
@@ -8643,6 +9021,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25905"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 203.2 95.25 0)
 			(effects
 				(font
@@ -8738,7 +9134,7 @@
 		(at 203.2 106.68 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c111df38-27a5-4be6-b9e8-330f0ad70a6f")
@@ -8780,6 +9176,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 203.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 203.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
 			(at 203.2 106.68 0)
 			(effects
 				(font
@@ -8924,6 +9338,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 106.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
+			(at 106.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c09a223e-95a6-4953-84f5-a6b3c4d51ac7")
 		)
@@ -9019,7 +9451,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "WHITE"
 			(at 259.08 49.022 0)
 			(effects
 				(font
@@ -9046,6 +9478,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 259.08 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
+			(at 259.08 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603W/C2290"
 			(at 259.08 52.07 0)
 			(effects
 				(font
@@ -9124,6 +9574,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C1525"
+			(at 132.08 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
+			(at 132.08 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c5af9031-2ea8-4473-9d54-7b69fdc2dcb3")
 		)
@@ -9185,6 +9653,24 @@
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 42.672 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2927038"
+			(at 43.18 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C018/C2927038"
+			(at 43.18 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9299,6 +9785,24 @@
 		)
 		(property "Description" ""
 			(at 119.38 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5142280"
+			(at 143.51 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH32V203G6U6/C5142280"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9517,6 +10021,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 116.84 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 116.84 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" ""
 			(at 116.84 156.21 0)
 			(effects
 				(font
@@ -9784,6 +10306,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 240.03 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 240.03 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB site" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 240.03 106.68 0)
 			(effects
 				(font
